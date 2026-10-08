@@ -1,6 +1,6 @@
 cask "omni" do
-  version "0.1.0"
-  sha256 "c5001cd3edc9860aff58e4584b23deb7f7c65d38e7258751cff3459c91539dfa"
+  version "0.1.1"
+  sha256 "2afa71366ef30a1be7fa7a87a9309f998d50b23f1642299b5d4d5b6c52b0b20f"
 
   url "https://www.getomni.space/downloads/Omni_#{version}_aarch64.dmg"
   name "Omni"
